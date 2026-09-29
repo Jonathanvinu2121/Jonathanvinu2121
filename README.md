@@ -2,7 +2,7 @@
 
 Backend engineer building event-sourced and real-time systems in Node.js, TypeScript and Python. B.Tech CSE 2026, based in Kochi, open to SDE, backend and full-stack roles.
 
-From March 2024 to May 2026 I was co-founder and founding engineer of Webify Solution, a student venture, where I led a small team to build version 1 of a restaurant KOT/POS system.
+From March 2025 to May 2026 I was co-founder and founding engineer of Webify Solution, a student venture, where I led a small team to build version 1 of a restaurant KOT/POS system.
 
 **Projects**
 
